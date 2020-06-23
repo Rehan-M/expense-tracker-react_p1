@@ -10,7 +10,7 @@ export const Balance = () => {
 
   return (
     <>
-      <h2>Expense Tracker</h2>
+      <h2>Expense $ Tracker</h2>
       <h4>Your Balance</h4>
       <h1>${total}</h1>
     </>
